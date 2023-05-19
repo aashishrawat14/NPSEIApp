@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NPSEI</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">
+Nanhi Pari Seemant Engineering Institute (NPSEI) is an engineering college in Pithoragarh, Uttarakhand, India is one of the government engineering colleges of Uttarakhand. It was established in 2011, as a constituent institute of Uttarakhand Technical University. The college was established, financed by the government of Uttarakhand, and managed by Uttarakhand Technical University.</string>
+</resources>

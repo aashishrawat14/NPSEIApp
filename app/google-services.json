@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874595034003",
+    "project_id": "npseiapp",
+    "storage_bucket": "npseiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874595034003:android:2180114c387eb3422efe66",
+        "android_client_info": {
+          "package_name": "com.example.npseiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874595034003-o0oi9qv0f143comm2a0v5d5j3kprafv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8iDGd4_n0tfzqSHpugxoi9BKBqCL7UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874595034003-o0oi9qv0f143comm2a0v5d5j3kprafv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
